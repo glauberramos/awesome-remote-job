@@ -408,6 +408,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Fleep](https://fleep.io/) - Internal chat and collaboration tool for development teams
   1. [Floobits](https://floobits.com) - Remote pair programming with screen share. Integrates with Sublime, IntelliJ, Atom and others
   1. [Flowdock](https://www.flowdock.com/) – Browser-based group chat for teams. Integrates with GitHub, Jira, Jenkins etc.
+  1. [Funretro](https://funretro.github.io/distributed) - Easy to use restrospective board for distributed agile teams.
   1. [Hangouts](http://www.google.com/+/learnmore/hangouts/) – Chat system, share desktop and video calls.
   1. [Hipchat](https://www.hipchat.com/) – Great internal chat for hackers.
   1. [IRCCloud](https://www.irccloud.com) – Browser-based IRC client with permanent storage.
